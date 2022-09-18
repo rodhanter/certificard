@@ -4,9 +4,12 @@ body {
   background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
   font-family: "Roboto", sans-serif;
 }
-
+.center {
+  align-content: center;
+  margin-top: 3%;
+}
 .container {
-  margin: 44px;
+  margin: auto;
   width: 990px;
   background: #ecf4ff;
   color: #1c1c1c;
