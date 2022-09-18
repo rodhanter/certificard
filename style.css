@@ -7,6 +7,7 @@ body {
 
 .container {
   margin: 44px;
+  width: 990px;
   background: #ecf4ff;
   color: #1c1c1c;
   border-radius: 20px;
